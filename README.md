@@ -27,7 +27,7 @@ A stunning, interactive portfolio website inspired by macOS design principles, b
 
 ## 🚀 Live Demo
 
-Visit the live portfolio: [https://sangeeta-mac0-s-portfolio-ohv9.vercel.app/] (https://sangeeta-mac0-s-portfolio-ohv9.vercel.app/)
+Visit the live portfolio: [https://sangeeta-mac0-s-portfolio.vercel.app]
 
 ## 📁 Project Structure
 
